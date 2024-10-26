@@ -16,7 +16,7 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>ANAS</h1>
+      <h1>Syed ANAS</h1>
       <div className="card">
         <button onMouseOver={() => setCount((count) => count + 1000)}>
           count is {count}
